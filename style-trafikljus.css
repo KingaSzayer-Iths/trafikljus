@@ -1,0 +1,92 @@
+div{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    
+}
+
+.röd{
+    background-color: red;
+    border: 10px solid #990000;
+}
+
+.gul{
+    background-color: yellow;
+    border: 10px solid #999900;
+}
+
+.grön{
+    background-color: green;
+    border: 10px solid #006600;
+}
+
+.ljusröd{
+    background-color: #ffb4b4;
+    height: 100px;
+    width: 200px;
+    margin: 0;
+    margin-top: 50%;
+}
+
+.ljusgul{
+    background-color: #ebe161;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    margin-top: 50%;
+    margin-left: 50%;
+}
+
+.ljusgrön{
+    background-color: #dbe769;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    margin-top: 50%;
+}
+
+.rundljusröd{
+    background-color:#ffb4b4;
+    border-radius: 90px;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+.rundljusgul{
+    background-color:#ebe161;
+    border-radius: 90px;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+.rundljusgrön{
+    background-color:#dbe769;
+    border-radius: 90px;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+.rund{
+    border-radius: 10px;
+}
+
+.vanster {
+    float:left;
+    width: 30%;
+}
+.mitten {
+    float:left;
+    width: 30%;
+
+}
+.hoger {
+    float:left;
+    width: 30%;
+}
+h1 {
+    text-align: center;
+    width: 240px;
+}
